@@ -9,7 +9,7 @@ local Camera = workspace.CurrentCamera
 
 -- GUI Setup
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "ESP_Aimbot_GUI"
+ScreenGui.Name = "Lxght's niggermenu"
 ScreenGui.Parent = game.CoreGui
 
 local MainFrame = Instance.new("Frame")
